@@ -293,7 +293,8 @@ ol {
   list-style: decimal inside; }
 ol, ul {
   padding-left: 0;
-  margin-top: 0; }
+  margin-top: 0;
+}
 ul ul,
 ul ol,
 ol ol,
@@ -302,8 +303,13 @@ ol ul {
   font-size: 90%; }
 li {
   margin-bottom: 1rem; }
-
-
+td ul {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+td ul li {
+  margin-bottom: 0;
+}
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {

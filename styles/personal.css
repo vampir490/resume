@@ -18,6 +18,6 @@ section {
     display: inline-block;
 }
 
-.social-media p {
-    margin-right: 10px;
+.social-media a {
+    margin-right: 20px;
 }
