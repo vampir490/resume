@@ -1,0 +1,23 @@
+section {
+    margin-top: 20px;
+}
+
+.fa-skype {
+    color: #00AFF0;
+}
+
+.fa-linkedin {
+    color: #0E76A8;
+}
+
+.fa-facebook {
+    color: #3B5998;
+}
+
+.social-media {
+    display: inline-block;
+}
+
+.social-media p {
+    margin-right: 10px;
+}
